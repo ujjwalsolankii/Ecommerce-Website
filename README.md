@@ -1,5 +1,5 @@
 # Ecommerce-Website
-[CLICK HERE (https://eccomerce-app.netlify.app/)]
+[CLICK HERE](https://eccomerce-app.netlify.app/)
 This is Ecommerce-website project </br>
 Time taken for completing this project</br>
 1 week</br>
