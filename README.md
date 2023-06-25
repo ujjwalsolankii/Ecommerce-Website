@@ -2,13 +2,21 @@
 
 ## [Live link](https://eccomerce-app.netlify.app/)
 
-- Skills Gained in this project
-    - Learned about Tailwind css and various properties of tailwind css.
-    - Learned to make cards and mediaquery for responviveness.
-    - Learned about positioning and allignment.
-    - CSS and JAVASCRIPT how it works how their classes useed in different different scenerios.
-    - i learn good amount of flex during the process of making this project responsive.
+## Skills Gained in this project
+- Responsive Ecommerce Website Using HTML CSS & JavaScript.
+- Learned to make cards and mediaquery for responviveness.
+- Learn the fundamentals of web design.
+- Learned about positioning and allignment.
+- Modern CSS, including flexbox and CSS Grid for layout.
+- Modern CSS techniques to create stunning designs and effects.
+- How to use common components and layout patterns for professional website design and development.
+- Advanced responsive design using media queries.
+- Learned about positioning and allignment.
+- CSS and JAVASCRIPT how it works how their classes useed in different different scenerios.
+- i learn good amount of flex during the process of making this project responsive.
+- And Many More.
 ---
+
 
 ## Time taken to finish this project
 
